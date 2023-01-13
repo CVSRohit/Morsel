@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>107133802687-c6vm0qp61vg0f7uifnv755favjdf7ige.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.107133802687-c6vm0qp61vg0f7uifnv755favjdf7ige</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoArAZvrSmCEsRm_s6PwxvMY-4SFhEzSY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>107133802687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.morselApplication1</string>
+	<key>PROJECT_ID</key>
+	<string>morsel-38ae7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>morsel-38ae7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:107133802687:ios:00d61456cea7939f128e0a</string>
+</dict>
+</plist>
