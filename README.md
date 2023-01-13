@@ -1,10 +1,12 @@
 # MORSEL
 
-A multi-sided marketplace that will act as a platform for food service providers to sell their surplus items (edible or non-edible by products) which would have ended up in landfills to retail customers or entities that can transform such waste into valuable products/services.  
+A multi-sided marketplace that will act as a platform for retail food service providers to sell their surplus items (edible or non-edible by products) which would have ended up in landfills to retail customers or entities that can transform such waste into valuable products/services.  
 
 ## Solution 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+It is a native application built using Flutter SDK. It is currently usable on both iOS and Android and can be expanded to be used as web application too.
 
 ## Getting Started
 
@@ -20,8 +22,8 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
+A step to step guid on installing the flutter application for running:
+Requirements - 
 Say what the step will be
 
 ```
