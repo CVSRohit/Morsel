@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "107133802687",
+    "project_id": "morsel-38ae7",
+    "storage_bucket": "morsel-38ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107133802687:android:31033c6b6f775379128e0a",
+        "android_client_info": {
+          "package_name": "com.example.morsel_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107133802687-drtrqb6fo1huvfov0ign6qqoli8qjpt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1l8a7n1b7XQfYmwVst-UytFJfq2xJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107133802687-drtrqb6fo1huvfov0ign6qqoli8qjpt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107133802687-4fdqkh44d5mi00fumjt1le0vpgjtaruf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morselApplicationV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107133802687:android:de74906170209e90128e0a",
+        "android_client_info": {
+          "package_name": "com.example.morsel_application_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107133802687-drtrqb6fo1huvfov0ign6qqoli8qjpt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1l8a7n1b7XQfYmwVst-UytFJfq2xJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107133802687-drtrqb6fo1huvfov0ign6qqoli8qjpt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107133802687-4fdqkh44d5mi00fumjt1le0vpgjtaruf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morselApplicationV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

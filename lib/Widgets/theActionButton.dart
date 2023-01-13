@@ -1,31 +1,34 @@
 import 'package:flutter/material.dart';
-import 'package:morsel_application_1/constants/colors.dart' as var_color;
-import '../Pages/homePage.dart';
+import 'package:morsel_application_1/constants/customVariables.dart'
+    as customVariables;
+import '../Pages/buyerHomePage.dart';
 
-class theActionButton extends StatelessWidget {
-  const theActionButton({
-    super.key,
-  });
+class theActionButton extends StatefulWidget {
+  theActionButton({super.key, required this.buttonText, this.onTap});
+  String buttonText;
+  Function? onTap;
 
+  @override
+  State<theActionButton> createState() => _theActionButtonState();
+}
+
+class _theActionButtonState extends State<theActionButton> {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () => Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => const homePage(),
-        ),
-      ),
+      onTap: (() {
+        widget.onTap!();
+      }),
       child: Container(
         margin: EdgeInsets.all(10),
         height: 50,
         width: 250,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.all(Radius.circular(20)),
-          color: var_color.morselGreenColor,
+          color: customVariables.morselGreenColor,
         ),
         child: Text(
-          "Sign in",
+          widget.buttonText,
           style: TextStyle(
               color: Colors.white, fontWeight: FontWeight.bold, fontSize: 20),
         ),
