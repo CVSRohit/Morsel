@@ -34,7 +34,22 @@ https://docs.flutter.dev/get-started/install?gclid=CjwKCAiAwomeBhBWEiwAM43YIJQ1G
 ### Running Morsel Application in Flutter
 
 Steps:
-1. Open your Android Studio (or Visual Studio Code), and clone this GIT repository 
+1. Open your Android Studio (or Visual Studio Code), and clone this GIT repository (https://github.com/CVSRohit/Morsel/tree/master)
+2. Select your simulator (recommended - iPhone 14 Pro)
+3. Open main.dart file and run the code with debugger
+
+Note - the first cold start can take up to a few minutes on the simulator
+
+## Dependencies
+1. Firebase Firestore
+2. Image Picker
+3. Firebase Storage
+4. Firebase Authentication
+5. Permission Handler
+6. Flutter Date Time Picker
+7. Cupertino Icons
+
+Please refer to pubspec.yaml file for information about dependency versions used.
 
 ## Screens
 
@@ -61,13 +76,6 @@ Charity Screens
   * My Profile
   * My Orders
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
 ## Demo
 
 
@@ -77,7 +85,11 @@ https://user-images.githubusercontent.com/87718720/212475785-f4248df2-933a-4e68-
 https://user-images.githubusercontent.com/87718720/212476079-949ba67e-59f4-4aa4-9711-c4516eb19dc7.mp4
 
 
+## Running the tests
 
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
 ### And coding style tests
 
 
