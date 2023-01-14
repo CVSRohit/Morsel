@@ -38,28 +38,28 @@ Steps:
 
 ## Screens
 
-"*"Splash
-"*"Login
-"*"Signup
-"*"Forgot Password
+* Splash
+* Login
+* Signup
+* Forgot Password
 
-"*"Buyer Screens
-  "*"Buyer Home Page
-  "*"Seller Page
-  "*"Buyer Cart
-  "*"Payment Page
-  "*"My Orders
-  "*"My Profile
-"*"Seller Screens
-  "*"Seller Home Page
-  "*"Add Item
-  "*"Seller Profile
-  "*"Seller Orders
-"*"Charity Screens
-  "*"Charity Home Page
-  "*"Seller Page
-  "*"My Profile
-  "*"My Orders
+Buyer Screens
+  * Buyer Home Page
+  * Seller Page
+  * Buyer Cart
+  * Payment Page
+  * My Orders
+  * My Profile
+Seller Screens
+  * Seller Home Page
+  * Add Item
+  * Seller Profile
+  * Seller Orders
+Charity Screens
+  * Charity Home Page
+  * Seller Page
+  * My Profile
+  * My Orders
 
 
 ## Running the tests
