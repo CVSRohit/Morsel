@@ -6,37 +6,30 @@ A multi-sided marketplace that will act as a platform for retail food service pr
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-It is a native application built using Flutter SDK. It is currently usable on both iOS and Android and can be expanded to be used as web application too.
+The code is for a native application built using Flutter SDK. It is currently usable on both iOS and Android and can be expanded to be used as web application too.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
+To run the Flutter code you need the following:
+Using Mac For ioS and Android:
+1. XCode
+2. Visual Studio Code (optional but recommended)
+3. Android Studio
 
-What things you need to install the software and how to install them
+Using Winows For Android
+1. Android Studio
+2. Visual Studio Code (optional but recommended)
 
-```
-Give examples
-```
+Note - A Mac is required for running the iOS version of te application.
+
 
 ### Installing
 
-A step to step guid on installing the flutter application for running:
-Requirements - 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Please refer to the following link for a step-by-step guide to installing flutter in your computer
+https://docs.flutter.dev/get-started/install?gclid=CjwKCAiAwomeBhBWEiwAM43YIJQ1G-p1wQwCPaKhf2m7dhs7mfxpMyYSMwGZeiULWSU3R45DCREA5RoCakMQAvD_BwE&gclsrc=aw.ds
 
 ## Running the tests
 
@@ -52,11 +45,6 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -64,13 +52,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 
 ## Acknowledgments
+pub.dev (https://pub.dev/)
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
+
