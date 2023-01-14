@@ -39,6 +39,9 @@ Steps:
 3. Open main.dart file and run the code with debugger
 
 Note - the first cold start can take up to a few minutes on the simulator
+## Disclaimer
+
+The App is currently work-in-progress state, with a few known bugs. More updates will be released over the course of January 2023, before the app gets ready for Beta testing
 
 ## Dependencies
 
@@ -102,7 +105,9 @@ Explain how to run the automated tests for this system
 ## Built With
  -->
 
+
 ## Acknowledgments
+The following resources were utilized while building the Flutter Application
 * pub.dev (https://pub.dev/) - for dependencies sample codes and examples
 * The Flutter Development bootcamp course (https://www.udemy.com/course/flutter-bootcamp-with-dart/) - to learn flutter and dart
 
