@@ -82,6 +82,18 @@ Charity Screens
   * My Profile
   * My Orders
 
+### Folder Structure
+Here is the core folder structure which flutter provides.
+
+```
+flutter-app/
+|- android
+|- build
+|- ios
+|- lib
+|- test
+```
+
 ## Demo
 
 
