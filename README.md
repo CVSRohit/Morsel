@@ -63,6 +63,9 @@ Please refer to pubspec.yaml file for information about dependency versions used
  
  * Users can sign up to MORSEL with user type as one of Restaurant/Retailer, Charity or Buyer
  * Role-based access control: Each user type will see the appropriate user screen according to their user type
+ * Seller can be restaurants or retailers who enlists items for sale
+ * Buyers can be individul buyers who is looking to buy meals or groceries for their consumption
+ * Buyers can be business owners who is looking to buy byproducts on scale as raw materails for their production process
  
  Seller
  * Restaurants/Retailers can enlist edible high quality cooked meals, left over ingredients and/or byproducts in the app
@@ -70,14 +73,31 @@ Please refer to pubspec.yaml file for information about dependency versions used
  * Seller can also choose to donate the meal to a charity and pick time till when it will be available for donation
  * Restaurants/Retailers can view and delete their listings
  * If a listed item does not sell before its available sale time, it will be removed from the list of items for sale and appear in the charity user interface listing
+
+Buyer
+ * Buyer can view items listed
+ * They can make orders for each item by choosing quantity
+ * They can check out a map feature to view resturants/retailers near by selling food
+ * They can view their profile to see the CO2 emissions they saved and money they saved by purchasing lowly priced meals
  
+ Charity
+ * Charity can view items listed
+ * They can make orders for each item by choosing quantity
+ * They can check out a map feature to view resturants/retailers near by selling food
+ * They can view their profile to see the CO2 emissions they saved and money they saved by purchasing lowly priced meals
 
 Future State
 
  Seller
- 
  * Restaurants/Retailers can make edits to their listings
- 
+ * Added authentication to make sure the seller meets legal requirements to sell food or grocery
+
+Buyer
+ * Complete payment gateway for buyer to pay for the order
+
+Charity
+* Added authentication to make sure its a legally registered nonprofit
+
 
 ## Screens
 
@@ -123,6 +143,11 @@ flutter-app/
 https://user-images.githubusercontent.com/87718720/212475785-f4248df2-933a-4e68-8259-0ad09a6f01d9.mp4
 
 https://user-images.githubusercontent.com/87718720/212476079-949ba67e-59f4-4aa4-9711-c4516eb19dc7.mp4
+
+## High-Level Architecture of Morsel
+
+![image](https://user-images.githubusercontent.com/26348358/212493249-284b794f-c5b7-47f4-a079-8b5097d4e601.png)
+
 
 <!-- 
 ## Running the tests
