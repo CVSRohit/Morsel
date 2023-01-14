@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/87718720/212475785-f4248df2-933a-4e68-
 
 https://user-images.githubusercontent.com/87718720/212476079-949ba67e-59f4-4aa4-9711-c4516eb19dc7.mp4
 
-
+<!-- 
 ## Running the tests
 
 Explain how to run the automated tests for this system
@@ -100,10 +100,12 @@ Explain how to run the automated tests for this system
 
 
 ## Built With
-
+ -->
 
 ## Acknowledgments
-pub.dev (https://pub.dev/)
+* pub.dev (https://pub.dev/) - for dependencies sample codes and examples
+* The Flutter Development bootcamp course (https://www.udemy.com/course/flutter-bootcamp-with-dart/) - to learn flutter and dart
+
 
 
 
