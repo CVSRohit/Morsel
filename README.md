@@ -57,6 +57,28 @@ The following dependencies have been used in the Flutter application:
 
 Please refer to pubspec.yaml file for information about dependency versions used.
 
+## Features
+ 
+ Current State
+ 
+ * Users can sign up to MORSEL with user type as one of Restaurant/Retailer, Charity or Buyer
+ * Role-based access control: Each user type will see the appropriate user screen according to their user type
+ 
+ Seller
+ * Restaurants/Retailers can enlist edible high quality cooked meals, left over ingredients and/or byproducts in the app
+ * While enlisting, they have to upload a picture of the item, price, quantity and date till which the item will be avilable for buyer sale
+ * Seller can also choose to donate the meal to a charity and pick time till when it will be available for donation
+ * Restaurants/Retailers can view and delete their listings
+ * If a listed item does not sell before its available sale time, it will be removed from the list of items for sale and appear in the charity user interface listing
+ 
+
+Future State
+
+ Seller
+ 
+ * Restaurants/Retailers can make edits to their listings
+ 
+
 ## Screens
 
 * Splash
