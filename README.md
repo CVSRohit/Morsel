@@ -41,6 +41,9 @@ Steps:
 Note - the first cold start can take up to a few minutes on the simulator
 
 ## Dependencies
+
+The following dependencies have been used in the Flutter application:
+
 1. Firebase Firestore
 2. Image Picker
 3. Firebase Storage
