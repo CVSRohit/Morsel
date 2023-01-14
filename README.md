@@ -26,11 +26,15 @@ Using Winows For Android
 Note - A Mac is required for running the iOS version of te application.
 
 
-### Installing
+### Installing Flutter
 
 Please refer to the following link for a step-by-step guide to installing flutter in your computer
 https://docs.flutter.dev/get-started/install?gclid=CjwKCAiAwomeBhBWEiwAM43YIJQ1G-p1wQwCPaKhf2m7dhs7mfxpMyYSMwGZeiULWSU3R45DCREA5RoCakMQAvD_BwE&gclsrc=aw.ds
 
+### Running Morsel Application in Flutter
+
+Steps:
+1. Open your Android Studio (or Visual Studio Code), and clone this GIT repository 
 
 ## Screens
 
@@ -64,18 +68,12 @@ Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
