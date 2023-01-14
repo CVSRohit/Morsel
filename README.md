@@ -31,6 +31,33 @@ Note - A Mac is required for running the iOS version of te application.
 Please refer to the following link for a step-by-step guide to installing flutter in your computer
 https://docs.flutter.dev/get-started/install?gclid=CjwKCAiAwomeBhBWEiwAM43YIJQ1G-p1wQwCPaKhf2m7dhs7mfxpMyYSMwGZeiULWSU3R45DCREA5RoCakMQAvD_BwE&gclsrc=aw.ds
 
+
+## Screens
+
+Splash
+Login
+Signup
+Forgot Password
+
+Buyer Screens
+  Buyer Home Page
+  Seller Page
+  Buyer Cart
+  Payment Page
+  My Orders
+  My Profile
+Seller Screens
+  Seller Home Page
+  Add Item
+  Seller Profile
+  Seller Orders
+Charity Screens
+  Charity Home Page
+  Seller Page
+  My Profile
+  My Orders
+
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
